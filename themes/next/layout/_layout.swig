@@ -50,6 +50,7 @@
         {% include '_third-party/analytics/analytics-with-widget.swig' %}
         {% block footer %}{% endblock %}
         <p style="margin:0 auto; font-size:14px;">Hosted by <a href="https://pages.coding.me">Coding Pages</a></p>
+        <div><a href="http://www.beian.miit.gov.cn/" target="_blank">琼ICP备18001028号</a></div>
       </div>
     </footer>
 
